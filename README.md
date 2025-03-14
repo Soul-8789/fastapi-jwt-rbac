@@ -24,7 +24,7 @@ A **FastAPI-based REST API** with **JWT authentication** and **role-based access
 ### **1️⃣ Clone the Repository**
 
 ```sh 
-git clone https://github.com/YOUR_USERNAME/fastapi-jwt-rbac.git
+https://github.com/Soul-8789/fastapi-jwt-rbac.git
 cd fastapi-jwt-rbac
 ```
 
